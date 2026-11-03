@@ -55,8 +55,5 @@
   "checkpoint": "best.pt",
   "epoch": 79,
   "params_M": 5.197756,
-  "best_epoch": 79,
-  "target": 0.965,
-  "target_epoch": null,
-  "target_acc": null
+  "best_epoch": 79
 }
